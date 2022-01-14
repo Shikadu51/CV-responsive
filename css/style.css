@@ -2,6 +2,14 @@ body {
     background-color: #bababa;
   }
 
+  header ul , footer{
+    width: 90%;
+    padding: 20px 0px;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px black;
+    margin: 20px auto;
+} 
+
   h1 {
     color: #806d5a;
     text-align: center;
@@ -55,10 +63,11 @@ body {
     padding-bottom: 20px;
     margin: 20px auto;
     box-shadow: 0px 0px 10px black;
+    background-color: whitesmoke;
 }
 
 section h2{
-    margin: 20px 0;
+    margin: 10px 0;
     width: 90%;
 }
 section > div{
