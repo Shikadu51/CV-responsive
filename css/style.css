@@ -90,6 +90,7 @@ section > div{
     box-shadow: 0px 0px 10px #ccc;
     border-radius: 5px;
 }
+
 .contact-flex{
     display: flex;
     flex-flow: row wrap;
@@ -150,13 +151,17 @@ section > div{
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
+.c60{
+  width: 60%;
+  background-color: #8B8;
+}
 .c80{
   width: 80%;
   background-color: #4B8;
 }
-.c60{
-  width: 60%;
-  background-color: #8B8;
+.c85{
+  width: 85%;
+  background-color: #4B8;
 }
 .c95{
   width: 95%;
