@@ -108,8 +108,9 @@ textarea {
 input[type="message"],
 textarea {
   width: 300px;
-  padding: 50px;
+  padding: 5px;
   text-align: start;
+  height: 150px;
 }
 
 input[type="submit"] {
