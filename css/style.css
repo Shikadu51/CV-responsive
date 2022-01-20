@@ -158,6 +158,8 @@ input[type="submit"] {
     display: flex;
     justify-content: space-around;
     margin: 10px auto 0px auto;
+    text-align: center;
+    padding-top: 80px;
 }
 .social img{
     width: 40px;
