@@ -1,8 +1,4 @@
-body {
-    background-color: #bababa;
-  }
-
-  header ul {
+header ul {
     width: 90%;
     padding: 20px 0px;
     background-color: whitesmoke;
@@ -19,7 +15,7 @@ footer{
 }
 
   h1 {
-    color: #806d5a;
+    color: whitesmoke;
     text-align: center;
     font-size: 45px;
     padding-top: 10px;
