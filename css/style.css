@@ -22,6 +22,7 @@ footer p {
     font-size: 45px;
     padding-top: 10px;
     padding-bottom: 80px;
+    font-family: fantasy;
   }
   
   ul {
@@ -29,6 +30,7 @@ footer p {
     background: #bababa;
     justify-content: space-around;
     padding: 12px;
+    font-family: fantasy;
   }
   
   ul li {
@@ -51,6 +53,7 @@ footer p {
     font-size: 1em;
     line-height: 1.5em;
     text-align: center;
+    font-family: cursive;
   }
   
   h2 {
@@ -60,6 +63,7 @@ footer p {
     padding-top: 30px;
     padding-bottom: 30px;
     text-decoration: underline;
+    font-family: fantasy;
   }
    
   
@@ -72,6 +76,7 @@ footer p {
     margin: 20px auto;
     box-shadow: 0px 0px 10px black;
     background-color: #c0dFEF;
+    font-family: cursive;
 }
 
 section h2{
